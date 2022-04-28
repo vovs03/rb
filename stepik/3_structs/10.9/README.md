@@ -15,3 +15,24 @@ Sample Input:
 Sample Output:
 10
 ```
+
+## Другие решения
+
+очень понравилось:
+
+> **Tux Racer** <br>
+> С использованием digits и sum
+
+```ruby
+puts gets.to_i.digits.sum
+```
+
+---
+
+## Summary
+
+- Я перебирал индексы элемента массива, чтобы потом указать их явно.
+- Но блеск состоит в заложенному функционале языка
+  - [x] `.to_i`
+  - [x] `.digits` | [ruby-digits](http://ruby.qkspace.com/ruby-digits)
+  - [x] `.sum`
