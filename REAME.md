@@ -1,0 +1,5 @@
+# Ruby trainee
+
+- [ ] `Stepik`
+
+## Stepik
