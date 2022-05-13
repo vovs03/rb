@@ -19,6 +19,9 @@ _ = Array.new(4) { arr << gets.chomp }
 arr.insert(0, arr.last)
 arr.pop
 
+# Magic invertion strings to nums
+arr = arr[0, 1] + arr[1, 3].map(&:to_i)
+
 p arr[1]
 print arr
 
