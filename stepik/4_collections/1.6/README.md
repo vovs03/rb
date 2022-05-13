@@ -14,7 +14,7 @@
 2. |> Book Simdyanov
 3. |> Want to ask into [igor simdyanov](https://github.com/igorsimdyanov/ruby/issues/new)
 4. |> G: stackoverflow convert array elements from strings to integers
-      -- https://stackoverflow.com/questions/33819239/convert-array-elements-from-string-to-integer
+      -- [convert-array-elements-from-string-to-integer](https://stackoverflow.com/questions/33819239/convert-array-elements-from-string-to-integer)
 
 ## первичный ход рассуждения
 
