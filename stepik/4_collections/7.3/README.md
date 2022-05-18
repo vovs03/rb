@@ -1,6 +1,6 @@
 # Хэши 4.7.3
 
-> https://stepik.org/lesson/442724/step/3?unit=432894
+> `https://stepik.org/lesson/442724/step/3?unit=432894`
 
 Дан хэш hash.
 
